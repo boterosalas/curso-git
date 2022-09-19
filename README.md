@@ -1,5 +1,4 @@
 # Aprendiendo _Markdown_
-<h1 style="text-align:center;color:grey;text-decoration:underline;">Aprendiendo _Markdown_</h1>
 
 Esto es un párrafo
 
